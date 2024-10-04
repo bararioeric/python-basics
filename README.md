@@ -78,10 +78,14 @@ python is a general purpose programming language
 # data types
 
 -text:string 'k' 'john'
+
 -numeric type:
  -interger
  -float
+ 
 -sequence: list,tuple,range
+
 -set: set
+
 -bolean:BOAL
 
