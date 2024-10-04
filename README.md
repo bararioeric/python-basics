@@ -18,8 +18,11 @@ python is a general purpose programming language
   - one can achieve more by writing few codes of line
   - it is interprated
   - it supports three programming paradgims( that is procedural,object oriented,functional)
-  
 
+  ## to check if python exists and version of python
+  -python--version
+  # To interact with output
+  
   
 
 
