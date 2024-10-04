@@ -34,15 +34,15 @@ python is a general purpose programming language
 
   `print("hello,my name is silas")`
 
-  our output
+    our output
 
   `hello my name is silas`
 
- `print ('hello, am learning python')`
+   `print ('hello, am learning python')`
 
-  our output
+    our output
 
-  `hello am learning python`
+    `hello am learning python`
 
  
   
