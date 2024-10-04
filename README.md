@@ -26,7 +26,7 @@ python is a general purpose programming language
   -we use print function() followed by either single quote or double quote to output information on python file.
   
   
-  
+  `print("hello,world")`
   
 
 
