@@ -14,6 +14,12 @@ python is a general purpose programming language
 
   # why python
 
+  - it is simple to learn
+  - one can achieve more by writing few codes of line
+  - it is interprated
+  - it supports three programming paradgims( that is procedural,object oriented,functional)
+  
+
   
 
 
