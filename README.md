@@ -28,6 +28,11 @@ python is a general purpose programming language
   
   `print("hello,world")`
   
+  our output will be
+
+  `hello world`
+  
+  
 
 
 
