@@ -66,7 +66,9 @@ python is a general purpose programming language
   `'''print("hello,today am learning pyhon programming")'''`
   #variables
   variable are containers which are used to store data or information
+  
   example
+  
   -name ='eric'
 
   `print(name)`
