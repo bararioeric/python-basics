@@ -40,9 +40,9 @@ python is a general purpose programming language
 
  `print ('hello, am learning python')`
 
-our output
+  our output
 
-`hello am learning python`
+  `hello am learning python`
 
  
   
