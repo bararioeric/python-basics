@@ -22,6 +22,9 @@ python is a general purpose programming language
   ## to check if python exists and version of python
   -python--version
   # To interact with output
+
+  -we use print function() followed by either single quote or double quote to output information on python file.
+  
   
   
   
