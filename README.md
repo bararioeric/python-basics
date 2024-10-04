@@ -31,6 +31,20 @@ python is a general purpose programming language
   our output will be
 
   `hello world`
+
+  `print("hello,my name is silas")`
+
+  our output
+
+  `hello my name is silas`
+
+ `print ('hello, am learning python')`
+
+our output
+
+`hello am learning python`
+
+ 
   
   
 
