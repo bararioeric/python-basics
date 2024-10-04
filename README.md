@@ -44,9 +44,25 @@ python is a general purpose programming language
 
     `hello am learning python`
 
- 
+     numbers  are not enclosed in quotatoion unless you want to output as string
+
+     print("3") Is outputted as string
+
+    print(3) Is outputted as a number
+
+    # comments in python
+  - allows you to descirbe what your program is doing
+  - what some part of code mean
+  - put some kind of meaning to your code
   
-  
+  # single line comment
+  single line comment use #
+
+  `print('what is python programming')
+
+  # multiline comment
+  multiline line comment use single tripe quote or double tripple quote
+  `'''print("hello,today am learning pyhon programming")'''`
 
 
 
